@@ -21,6 +21,14 @@ style="float: left;" />
 style="float: left;" />
 
 <br>
+<img src = "./screenShots/s1.png" 
+style="float: left;" />
+
+<br>
+<img src = "./screenShots/s2.png" 
+style="float: left;" />
+
+<br>
 
 
 
